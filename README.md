@@ -2,10 +2,10 @@
 # Bеб-приложение для сбора данных
 
 
-[ссылка на веб-сайт:![link1](https://user-images.githubusercontent.com/97599612/173800862-631110ee-f612-4ad8-b50e-485b2bc525d5.png)](http://victorious.pythonanywhere.com/)
+[ссылка на веб-сайт: ![link1](https://user-images.githubusercontent.com/97599612/173827421-7652c275-57c8-4cd6-a664-4e199fafc890.png)](http://victorious.pythonanywhere.com/)
 
 
-<img width="1440" alt="screen1" src="https://user-images.githubusercontent.com/97599612/173818239-ac7fba2d-bdef-439a-a8ec-a857e4d22a56.png">
+<img width="1440" alt="screen1" src="https://user-images.githubusercontent.com/97599612/173827435-07d1b4f8-f6b1-4fde-baa0-1dd787db0d99.png">
 
 ___
 :sparkle: Содержание:
